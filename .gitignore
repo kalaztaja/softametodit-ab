@@ -1,0 +1,5 @@
+input/*
+!input/sonar-project.properties
+
+output/*
+!output/.gitkeep
